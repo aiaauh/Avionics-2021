@@ -1,1 +1,3 @@
 # Avionics-2021
+
+The purpose is to share our code in a public forum so that future members are able refer and improve the finalized version of the code intended for Zenith's flight. The code uploaded was used for Spaceport 2022. It is initialized as Version Q, for we had a member, Kurt Rowland, who saved previous attempts on his own device. The code is in dire need of improvement. The headers would not output and save at the appropriate times. We also had to omit the conversions from imperial to metric in order to improve our sample rate. This can be improved by using recursive functions and perhaps classes. 
